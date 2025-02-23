@@ -1,4 +1,15 @@
-# vite-plugin-eslint
+
+
+# vite-plugin-eslint-fixed-type
+
+> Patched version of `vite-plugin-eslint` with TypeScript declaration fixes.
+
+
+
+## 注意
+> 🔧 这是 [vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint) 的维护分支，修复了 TypeScript 类型声明问题。
+
+
 
 [![npm](https://img.shields.io/npm/v/vite-plugin-eslint)](https://www.npmjs.com/package/vite-plugin-eslint)
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/vite-plugin-eslint/peer/vite)
