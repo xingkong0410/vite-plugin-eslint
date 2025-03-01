@@ -21,16 +21,16 @@ ESLint plugin for vite.
 ## Install
 
 ```bash
-npm install eslint vite-plugin-eslint --save-dev
+npm install eslint vite-plugin-eslint-fixed-type --save-dev
 # or
-yarn add eslint vite-plugin-eslint -D
+yarn add eslint vite-plugin-eslint-fixed-type -D
 ```
 
 ## Usage
 
 ```js
 import { defineConfig } from 'vite'
-import eslint from 'vite-plugin-eslint'
+import eslint from 'vite-plugin-eslint-fixed-type'
 
 export default defineConfig({
   plugins: [eslint()]
@@ -40,7 +40,7 @@ export default defineConfig({
 If you do not want the plugin to break dev, you can configure the plugin this way: 
 ```js
 import { defineConfig } from 'vite';
-import eslint from 'vite-plugin-eslint';
+import eslint from 'vite-plugin-eslint-fixed-type';
 
 export default defineConfig({
   plugins: [
