@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-eslint-fixed-type",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "ESLint plugin for vite.",
   "author": "Xiang Gao",
   "license": "MIT",
@@ -28,8 +28,8 @@
     "eslint",
     "vite-plugin"
   ],
-  "homepage": "https://github.com/gxmari007/vite-plugin-eslint",
-  "repository": "git+https://github.com:gxmari007/vite-plugin-eslint.git",
+  "homepage": "https://github.com/xingkong0410/vite-plugin-eslint.git",
+  "repository": "git+https://github.com/xingkong0410/vite-plugin-eslint.git",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
